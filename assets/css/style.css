@@ -220,6 +220,7 @@ footer a {
 
 /* Responsiveness */
 
+/* Provato a 768px come da consegna */
 @media screen and (min-width: 651px) {
   h1 {
     font-size: 6rem;
@@ -287,6 +288,8 @@ footer a {
     text-align: right;
   }
 }
+
+/* provato a 1200px come da consegna */
 
 @media screen and (min-width: 992px) {
   header {
